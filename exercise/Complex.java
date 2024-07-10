@@ -1,7 +1,6 @@
 package exercise;
 
 public class Complex {
-    class Complex {
 
         double real, imaginary;
        
