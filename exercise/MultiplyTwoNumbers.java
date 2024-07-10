@@ -1,7 +1,6 @@
 package exercise;
 
 public class MultiplyTwoNumbers {
-    public class MultiplyTwoNumbers {
 
         public static void main(String[] args) {
        
