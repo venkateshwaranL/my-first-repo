@@ -4,9 +4,9 @@ public class MultiplyTwoNumbers {
 
         public static void main(String[] args) {
        
-        double first = 2.5, second = 4.5;
+        double firstnum = 2.5, secondnum = 4.5;
        
-        double product = first * second;
+        double product = firstnum * secondnum;
        
         System.out.println(“The product is: ” + product);
        
