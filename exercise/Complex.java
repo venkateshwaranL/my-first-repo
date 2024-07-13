@@ -2,13 +2,13 @@ package exercise;
 
 public class Complex {
 
-        double real, imaginary;
+        double realnum, imaginarynum;
        
         Complex(double r, double i) {
        
-        this.real = r;
+        this.realnum = r;
        
-        this.imaginary = i;
+        this.imaginarynum = i;
        
         }
        
@@ -16,9 +16,9 @@ public class Complex {
        
         Complex temp = new Complex(0, 0);
        
-        temp.real = c1.real + c2.real;
+        temp.realnum = c1.realnum + c2.realnum;
        
-        temp.imaginary = c1.imaginary + c2.imaginary;
+        temp.imaginarynum = c1.imaginarynum + c2.imaginarynum;
        
         return temp;
        
@@ -36,7 +36,7 @@ public class Complex {
        
         Complex temp = Complex.add(c1, c2);
        
-        System.out.println(“Sum = ” + temp.real + ” + ” + temp.imaginary + “i”);
+        System.out.println(“Sum = ” + temp.realnum + ” + ” + temp.imaginarynum + “i”);
        
         }
 }
