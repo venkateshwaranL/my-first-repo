@@ -9,7 +9,7 @@ public class FibonacciExample1 {
       for(i=2;i<count;++i)//loop starts from 2 because 0 and 1 are already printed    
       {    
        number3=number1+number2;    
-       System.out.print(" "+number3);    
+       System.out.println(" "+number3);    
        number1=number2;    
        number2=number3;    
       }    
