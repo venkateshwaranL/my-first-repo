@@ -6,12 +6,8 @@ public class Factorial {
         int number = 5, factorial = 1;
        
         for(int i = 1; i <= number; ++i) {
-       
         factorial *= i;
-       
         }
-       
         System.out.println(“Factorial of ” + number + ” is: ” + factorial);
-       
         }
 }
