@@ -1,1 +1,1 @@
-This is 3 File Of Git.
+There are some Method for handle the Question in Comman Way.
