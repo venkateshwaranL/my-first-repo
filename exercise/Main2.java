@@ -1,6 +1,6 @@
 class Animal {
     void sound() {
-        System.out.println("Normal Animal Sound");
+        System.out.println("Normal Animal of the Sound");
     }
 }
 
