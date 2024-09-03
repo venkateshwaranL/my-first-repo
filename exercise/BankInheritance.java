@@ -5,7 +5,7 @@ class Bank {
     }
 }
 class Employee extends Bank {
-    String employeeName = "Raja";
+    String employeeName = "Raja Kumar";
     void displayDeatils(){
         System.out.println( bankName +" Bank Employee Name is "+employeeName);
     }
