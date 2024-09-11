@@ -1,18 +1,18 @@
 class Animal {
     void sound() {
-        System.out.println("Normal Animal of the Sound");
+        System.out.println("Normal Animal of a Sound");
     }
 }
 
 class Dog extends Animal {  // Dog class inherits from Animal
     void sound() {
-        System.out.println("It's Dog Sound");
+        System.out.println("It's a Dog Sound");
     }
 }
 
 class Cat extends Animal {  // Cat class inherits from Animal
     void sound() {
-        System.out.println("It's Cat Sound");
+        System.out.println("It's a Cat Sound");
     }
 }
 
