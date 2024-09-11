@@ -1,25 +1,25 @@
 class Bank {
     String bankName = "KVB";
     void displayDeatils(){
-        System.out.println(" Name of the Bank "+bankName);
+        System.out.println(" Name of the Bank "+ bankName);
     }
 }
 class Employee extends Bank {
     String employeeName = "Raja Kumar";
     void displayDeatils(){
-        System.out.println( bankName +" Bank Employee Name is "+employeeName);
+        System.out.println( bankName +" Bank Employee Name is "+ employeeName);
     }
 }
 class Customer extends Bank {
     String customerName = "Sridhar";
     void displayDeatils(){
-        System.out.println(bankName +" Customer name is "+customerName);
+        System.out.println(bankName +" Customer name is "+ customerName);
     }
 }
 class NewCustomer extends Bank {
     String newCustomer = "Venkateshwaran";
     void displayDeatils(){
-        System.out.println(bankName +" New Customer name is "+newCustomer);
+        System.out.println(bankName +" New Customer name is "+ newCustomer);
     }
 }
 public class BankInheritance {
