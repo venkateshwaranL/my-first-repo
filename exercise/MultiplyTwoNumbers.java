@@ -1,7 +1,6 @@
 package exercise;
 
 public class MultiplyTwoNumbers {
-
         public static void main(String[] args) {
        
         double firstnum = 2.5, secondnum = 4.5;
