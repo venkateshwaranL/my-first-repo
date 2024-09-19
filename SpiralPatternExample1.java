@@ -89,8 +89,7 @@ if (i == boundary)
             }  
         System.out.println();  
     }  
-}  
-//driver Code  
+}   
 public static void main(String args[])  
 {  
 //size of the array?s row and column  
