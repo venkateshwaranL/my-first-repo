@@ -92,10 +92,10 @@ if (i == boundary)
 }   
 public static void main(String args[])  
 {  
-//size of the array?s row and column  
-int size = 5;  
-System.out.println("Spiral Matrix or Pattern is: \n");  
-//calling the method that prints the spiral pattern or matrix   
-printSpiralPattern(size);  
+ //size of the array?s row and column  
+ int size = 5;  
+ System.out.println("Spiral Matrix or Pattern is: \n");  
+ //calling the method that prints the spiral pattern or matrix   
+ printSpiralPattern(size);  
 }  
 }  
