@@ -1,0 +1,26 @@
+import math
+num1 = 25.76
+num2 = 6.34
+base = 3
+exponent = 4
+num_list = [5, 12, 18, 29, 33]
+floored_value = math.floor(num1)
+print(f"math.floor({num1}) = {floored_value}")
+remainder = math.fmod(num1, num2)
+print(f"math.fmod({num1}, {num2}) = {remainder}")
+power_value = math.pow(base, exponent)
+print(f"math.pow({base}, {exponent}) = {power_value}")
+square_root = math.sqrt(num1)
+print(f"math.sqrt({num1}) = {square_root}")
+cube_root = math.cbrt(3)
+print(f"Cube root of {num1} = {cube_root}")
+cos_value = math.cos(num1)
+print(f"math.cos({num1}) = {cos_value}")
+sin_value = math.sin(num1)
+print(f"math.sin({num1}) = {sin_value}")
+tan_value = math.tan(num1)
+print(f"math.tan({num1}) = {tan_value}")
+absolute_value = abs(-num1)
+print(f"abs({-num1}) = {absolute_value}")
+max_value = max(num_list)
+print(f"max({num_list}) = {max_value}")
