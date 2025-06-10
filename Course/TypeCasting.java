@@ -8,7 +8,7 @@ class TypeCasting {
         float f = 5.6f;
         int t = (int) f ;
 
-        byte v = 10;
+        byte v = 20;
         byte b = 30;
         int result = v*b; 
         System.out.println(result);
