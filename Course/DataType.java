@@ -10,7 +10,7 @@ class DataType {
         double d = 8547.555;
 
         char c = 's';
-        String str = "Venkateshwaran";
+        String str = "Venkatesh";
         boolean blt = true ;
 
     }
