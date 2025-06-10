@@ -2,7 +2,7 @@ class DataType {
     public static void main(String args[])
     {
         int num = 57;
-        byte by = -127;
+        byte by = 127;
         short sh = 754;
         long lo = 87975l;
 
