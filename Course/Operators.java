@@ -11,6 +11,11 @@ class Operators {
         }else{
         System.out.println("Bye");
         }
+        if(a>b){
+            System.out.println("A is Greather than B");
+        }else{
+            System.out.println("B is Greather than A");
+        }
         System.out.println(result);
         System.out.println(not);
     }
