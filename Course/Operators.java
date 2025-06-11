@@ -6,6 +6,11 @@ class Operators {
         short y = 120 ;
         boolean result = a<b || x<y ;
         boolean not = !result;
+        if(x<y && b>a){
+        System.out.println("Hello");
+        }else{
+        System.out.println("Bye");
+        }
         System.out.println(result);
         System.out.println(not);
     }
