@@ -1,6 +1,6 @@
 class Switch{
     public static void main(String[] v){
-        int n = 3;
+        int n = 2;
         switch(n){
             case 1:
                 System.out.println("Monday");
