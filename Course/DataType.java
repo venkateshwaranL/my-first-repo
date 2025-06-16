@@ -6,7 +6,7 @@ class DataType {
         short sh = 754;
         long lo = 87975l;
 
-        float fl = 85.4f;
+        float fl = 85.42f;
         double d = 8547.555;
 
         char c = 's';
