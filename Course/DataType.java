@@ -6,8 +6,8 @@ class DataType {
         short sh = 754;
         long lo = 87975l;
 
-        float fl = 85.42f;
-        double d = 8547.555;
+        float fl = 85.423f;
+        double d = 8547.5525;
 
         char c = 's';
         String str = "Venkatesh";
