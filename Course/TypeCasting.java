@@ -8,9 +8,9 @@ class TypeCasting {
         float f = 5.68f;
         int t = (int) f ;
 
-        byte v = 20;
-        byte b = 30;
-        int result = v*b; 
+        byte vs = 20;
+        byte l = 30;
+        int result = vs*l; 
         System.out.println(result);
     }
 }
