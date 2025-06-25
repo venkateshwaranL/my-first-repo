@@ -1,6 +1,6 @@
 class Hello {
     public static void main(String args[]) {
-        int a =5;
+        int a =55;
         float b=5.6f;
         double c =8.88;
         System.out.println(a);
