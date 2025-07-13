@@ -3,7 +3,7 @@ class DataType {
     {
         int num = 57;
         byte by = 127;
-        short sh = 754;
+        short sh = 3103;
         long lo = 87975l;
 
         float fl = 85.423f;
