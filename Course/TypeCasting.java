@@ -1,7 +1,7 @@
 class TypeCasting {
     public static void main(String args[])
     {
-        //byte b = 127;
+        byte b = 127;//next
         int a = 257;
         byte k = (byte) a;
 
