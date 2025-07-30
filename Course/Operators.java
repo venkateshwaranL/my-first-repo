@@ -4,7 +4,7 @@ class Operators {
         short b = 40 ;
         short c = 90 ;
         short x = 100 ;
-        short y = 110 ;
+        short y = 120 ;
         boolean result = a<b || x<y ;
         boolean not = !result;
         if(x<y && b>a){
