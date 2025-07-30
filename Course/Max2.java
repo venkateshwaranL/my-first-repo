@@ -4,7 +4,7 @@ public class Max2 {
 
 public static void main(String[] args){
 
-int[] arr = {5, 8, 1, 4, 10, 7};
+int[] arr = {5, 8, 1, 4, 0, 7};
 int firstMax = Integer.MIN_VALUE;
 int secondMax = Integer.MIN_VALUE;
 
