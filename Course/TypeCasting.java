@@ -5,7 +5,7 @@ class TypeCasting {
         int a = 257;
         byte k = (byte) a;
 
-        float f = 5.68f;
+        float f = 5.69f;
         int t = (int) f ;
 
         byte vs = 20;
