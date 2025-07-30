@@ -9,7 +9,7 @@ class DataType {
         float fl = 85.423f;
         double d = 8547.5525;
 
-        char c = 's';
+        char c = 'S';
         String str = "Venkateshwaran";
         boolean blt = true ;
 
