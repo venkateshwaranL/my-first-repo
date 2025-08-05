@@ -1,8 +1,8 @@
 class Fibonacci {  
 public static void main(String args[]) {    
- int num1=0,num2=1,num3,i,count=10;    
+ int num1=0,num2=1,num3,i,cout=10;    
  System.out.print(num1+" "+num2);
- for(i=2;i<count;++i)   
+ for(i=2;i<cout;++i)   
  {    
   num3=num1+num2;    
   System.out.print(" "+num3);    
