@@ -7,7 +7,7 @@ public class CountCharacter {
             if(statement.charAt(i) != ' ')    
                 count++;    
         }     
-        //Displays the total number of characters present in the given string    
+          
         System.out.println("Total number of characters in a string is: " + count);    
     }    
 }
