@@ -42,8 +42,7 @@ num=sc.nextInt();
 System.out.println("Armstrong Number up to "+ num + " are: ");  
 for(int i=0; i<=num; i++)  
 //function calling  
-if(isArmstrong(i))  
-//prints the armstrong numbers  
+if(isArmstrong(i))   
 System.out.print(i+ ", ");  
 }   
 }  
